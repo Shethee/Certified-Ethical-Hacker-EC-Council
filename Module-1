@@ -9,6 +9,7 @@
 -> Hashing 
 -> Digital signature 
 -> SHA-256 
+-> active directory
 -> Non-Repudiation 
 -> TTP, HTTP, HTTPS 
 -> Sniffing 
@@ -30,3 +31,20 @@
 -> Nabster 
 
 ## Courseware
+/ confidentiality- Confidentiality is the assurance of that the information is accessible only to those authorized to have access. It controls include data classification, data encryption and proper disposal of equipment
+/ Intigrity- the trustworthiness of data or resources in therms of preventing improper or unauthorized changes. 
+/ Availability- Assurance that the systems responsible for delivering, storing, and processing information are accessible when required by the authorized users. 
+/ Authenticity- Refers to the characteristic of a communication, document, or any data that ensures the quality of being genuine.Example-biometrics, smart cards
+/ Non-repudiation- A guarantee that the sender of a message cannot later deny having sent the message and that the recipient cannot deny having received the message
+
+/ Tactics, Techniques and Procedures(TTP)
+/ Tactics is defined as the strategy adopted by an attacker to perform the attack from the beginning to the end.
+/ Techniques is defined as technical methods used by an attacker to achieve intermediate results during the attack.
+/ Procedures is defined as a systematic aproach adopt by threat actors to launch an attack
+### study types of vulnerability
+/ Classification of attacks- passive attack, active attack, close in attack, insider attack, distribution attacks
+
+/ Information Warfare refers to the use of information and communication technologies to gain competitive advantages over an opponent
+/ there are two types of information warefare- defensive and offensive
+/ Defensive refers to all strategies and actions designed to defend against attacks on ICT assets.
+/ Offensive refers to information warfare that involves attacks against the ICT assets of an opponent.
