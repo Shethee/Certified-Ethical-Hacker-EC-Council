@@ -46,4 +46,90 @@ Footprinting a target using Shellgpt
 -> cmd -> nslookup -> set type=a/ set type=cname 
 -> http://www.kloth.net/services/nslookup.php
 
-### Lab 6: Perform Network Footprinting
+### Lab 6: Perform Network Footprinting(study Tracerouting)
+-> run tracert -> tracert /? -> tracert -h 5 www. ---- .com
+-> pingplotter
+-> traceroute ng
+
+### Lab 7: Perform Email Footprinting
+
+### Lab 8: Perform footprinting using various footprinting tools
+-> recon/domains-contacts/whois_pocs
+Footprinting a Target using Recon-ng
+
+# Module-3: Scanning Networks
+1. Perform host discovery\
+Perform host discovery using Nmap
+
+2. Perform port and service discovery\
+Explore various network scanning techniques using Nmap
+
+3. Perform OS discovery\
+Perform OS discovery using Nmap Script Engine (NSE)
+
+4. Scan beyond IDS and Firewall\
+Scan beyond IDS/firewall using various evasion techniques
+
+5. Perform network scanning using various scanning tools\
+Scan a target network using Metasploit
+
+6. Perform Network Scanning using AI\
+Scan a Target using ShellGPT
+
+### 1.  Perform host discovery(NMAP)
+-> nmap -sn -PR [Target IP Address]
+-> nmap -sn -PU [Target IP Address]
+-> nmap -sn -PE [Target IP Address]
+-> nmap -sn -PP [Target IP Address]
+-> nmap -sn -PM [target IP address]
+-> nmap -sn -PS [target IP address]
+-> nmap -sn -PA [target IP address]
+-> nmap -sn -PO [target IP address]
+
+### 2. Perform Port and Service Discovery
+-> windows -> zenmap -> nmap -sT -v [Target IP Address]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
