@@ -88,6 +88,23 @@ Scan a Target using ShellGPT
 
 ### 2. Perform Port and Service Discovery
 -> windows -> zenmap -> nmap -sT -v [Target IP Address]
+->  nmap -sS -v [Target IP Address]
+->  nmap -sX -v [Target IP Address]
+->  nmap -sM -v [Target IP Address]
+->  nmap -sA -v [Target IP Address] 
+# nmap -sI -v [target IP address]
+# nmap -sY -v [target IP address]
+# nmap -sZ -v [target IP address]
+ nmap -sV [Target IP Address] 
+nmap -A [Target Subnet]
+
+### Lab 3: Perform OS Discovery
+
+-> parrot -> nmap -A [Target IP Address]
+nmap -O [Target IP Address]
+nmap --script smb-os-discovery.nse [Target IP Address]
+
+### Lab 4: Scan beyond IDS and Firewall
 
 
 
@@ -103,25 +120,9 @@ Scan a Target using ShellGPT
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+7
+10.10.1.19
+636
 
 
 
